@@ -1,4 +1,4 @@
-# Bitly Clone - Link Shortening Website
+# Bitly - Link Shortening Website
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Welcome to Bitly Clone, a link shortening website built using Node.js, Express.js, and MongoDB. This project allows users to shorten long URLs into more manageable and shareable links. Whether you want to share a link on social media, in an email, or in a text message, Bitly Clone makes it easy.
+Welcome to Bitly, a link shortening website built using Node.js, Express.js, and MongoDB. This project allows users to shorten long URLs into more manageable and shareable links. Whether you want to share a link on social media, in an email, or in a text message, Bitly makes it easy.
 
 ## Features
 
