@@ -49,9 +49,10 @@ Follow these steps to set up the Bitly Clone project locally:
   ```
 
 ## Configuration
+
 Before running the application, you need to configure your environment variables. Create a .env file in the project root directory and add the following variables:
 
-  ```bash
+  ```
     PORT=3000
     MONGODB_URI=mongodb://localhost/bitly_clone
     SECRET_KEY=your-secret-key
@@ -60,7 +61,7 @@ Before running the application, you need to configure your environment variables
 ##  Usage
 Before running the application, you need to configure your environment variables. Create a .env file in the project root directory and add the following variables:
 
-  ```bash
+  ```
     npm start
   ```
 
